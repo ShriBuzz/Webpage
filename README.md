@@ -1,14 +1,14 @@
 # WordPress-site
-College club site made using WordPress (for practicing WordPress)
+A site made using WordPress (for practicing WordPress)
 
 ## Screenshots
-![Home](/Screenshots/kecit.000webhostapp.com_.png)
+![Home](/Screenshot/kecit.000webhostapp.com_.png)
 
-![Events](/Screenshots/kecit.000webhostapp.com_events.png)
+![Events](/Screenshot/kecit.000webhostapp.com_events.png)
 
-![Members](/Screenshots/kecit.000webhostapp.com_members.png)
+![Members](/Screenshot/kecit.000webhostapp.com_members.png)
 
-![About](/Screenshots/kecit.000webhostapp.com_about.png)
+![About](/Screenshot/kecit.000webhostapp.com_about.png)
 
 ## Development
 Used WordPress 4.9.8-en_GB for developing the site on windows 10
